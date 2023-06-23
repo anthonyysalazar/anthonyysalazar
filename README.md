@@ -16,8 +16,6 @@
 - 📄 Un poco sobre mis experencias y conocimientos [https://anthonyysalazar.github.io/Descargas/anthony%20salazar.pdf](https://anthonyysalazar.github.io/Descargas/anthony%20salazar.pdf)
 
 - ⚡ Fun fact **Tengo bastante humor**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
