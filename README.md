@@ -7,8 +7,6 @@
 
 - 🌱 He estudiado en varios sitios y tengo los titulos **desarrollador web full stack,grado medio de microsistemas y redes en informática**
 
-- 👯 El portfolio en desarrollo [ portafolio anthony](anthonyysalazar.github.io)
-
 - 📫 Mi correo electronico es **anthonyysalazar02@gmail.com**
 
 - 📄 Un poco sobre mis experiencias y conocimientos [https://anthonyysalazar.github.io/Descargas/anthony%20salazar.pdf](https://anthonyysalazar.github.io/Descargas/anthony%20salazar.pdf)
