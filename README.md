@@ -1,4 +1,5 @@
 <h1 align="center">Holaa 👋, soy Anthony</h1>
+<p align-center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=FUll-stack+web+y+developer;EXPERIENCIA+EN+UI%2FUX+DESIGNER;CADA+DIA+APRENDIENDO+COSAS+NUEVAS" alt="Typing SVG" /></a>
 <h3 align="center">Un poco sobre mi</h3>
 
