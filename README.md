@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-salazar-berm%c3%badez-90b65a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anthony-salazar-berm%c3%badez-90b65a273/" height="30" width="40" /></a>
 <a href="https://instagram.com/anthonyysalazarr02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthonyysalazarr02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@anthonysalazar5507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@anthonysalazar5507" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=w_zgf8hfmwo&ab_channel=anthonysalazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=w_zgf8hfmwo&ab_channel=anthonysalazar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
